@@ -6,8 +6,7 @@ const LandingIntro = () => {
         <div className="i">
             <div className="i-left">
                 <div className="i-left-wrapper">
-                    <h2 className="i-intro">Hi everyone! my name is</h2>
-                    <h1 className="i-name">TRINADH KOYA</h1>
+                    <h1 className="i-name">Hello! I'm  Trinadh.</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
                             <div className="i-title-item">Dreamer</div>
@@ -16,7 +15,7 @@ const LandingIntro = () => {
                             <div className="i-title-item">ML/AI enthusiastic</div>
                         </div>
                     </div>
-                    <p className="i-desc">
+                    <p className="i-desc intro-text">
                         A self-starter with 6+ years of Experience in Software Development. Have a good passion for
                         learning new technologies and motivated to accept challenges in Programming. I have the ability
                         to adapt the design quickly and code for the same. Keeping Professional standards make my code
