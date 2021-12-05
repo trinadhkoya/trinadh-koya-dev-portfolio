@@ -1,19 +1,19 @@
-import Me from "../../img/me.png";
-import './Intro.css'
+import Me from "../../assets/img/me.png";
+import './LandingIntro.css'
 
-const Intro = () => {
+const LandingIntro = () => {
     return (
         <div className="i">
             <div className="i-left">
                 <div className="i-left-wrapper">
-                    <h2 className="i-intro">Hello, My name is</h2>
-                    <h1 className="i-name">Trinadh Koya</h1>
+                    <h2 className="i-intro">Hi everyone! my name is</h2>
+                    <h1 className="i-name">TRINADH KOYA</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
                             <div className="i-title-item">Dreamer</div>
-                            <div className="i-title-item">Mobile/Web Developer</div>
-                            <div className="i-title-item">UI Engineer</div>
-                            <div className="i-title-item">Photographer</div>
+                            <div className="i-title-item">Mobile Engineer</div>
+                            <div className="i-title-item">UI Developer</div>
+                            <div className="i-title-item">ML/AI enthusiastic</div>
                         </div>
                     </div>
                     <p className="i-desc">
@@ -33,4 +33,4 @@ const Intro = () => {
     );
 };
 
-export default Intro;
+export default LandingIntro;

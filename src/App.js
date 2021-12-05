@@ -1,12 +1,13 @@
-  import './App.css';
-  import Intro from "./components/intro/Intro";
+import './App.css';
+import './assets/css/fonts.css'
+import LandingIntro from "./components/intro/LandingIntro";
 
-  function App() {
+function App() {
     return (
-      <div className="App">
-       <Intro/>
-      </div>
+        <div className="App">
+            <LandingIntro/>
+        </div>
     );
-  }
+}
 
-  export default App;
+export default App;
