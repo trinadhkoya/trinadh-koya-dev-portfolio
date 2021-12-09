@@ -1,4 +1,4 @@
-import {NavBar} from "./NavBar";
-import {menuItems} from "./MenuItems";
+import { NavBar } from './NavBar'
+import { menuItems } from './MenuItems'
 
-export {NavBar, menuItems}
+export { NavBar, menuItems }
