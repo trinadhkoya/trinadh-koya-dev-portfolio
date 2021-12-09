@@ -38,6 +38,7 @@
     font-family: GTFlexa, serif;
     font-weight: 600;
     color: #00A585;
+    align-self: flex-start;
 }
 
 .i-title {
@@ -117,6 +118,7 @@
     }
 
     .i-desc {
+        display: none;
     }
 
 }

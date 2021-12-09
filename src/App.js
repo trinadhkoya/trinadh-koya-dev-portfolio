@@ -1,10 +1,11 @@
 import './App.css';
 import './assets/css/fonts.css'
-import LandingIntro from "./components/intro/LandingIntro";
-
+import {NavBar} from "./ui-kit";
+import LandingIntro from "./screens/intro/LandingIntro";
 function App() {
     return (
         <div className="App">
+            <NavBar/>
             <LandingIntro/>
         </div>
     );
