@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-undef
 module.exports = {
 	'env': {
 		'browser': true,
@@ -30,10 +31,6 @@ module.exports = {
 		'quotes': [
 			'error',
 			'single'
-		],
-		'semi': [
-			'error',
-			'never'
 		]
 	}
 }
