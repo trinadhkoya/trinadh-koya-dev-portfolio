@@ -16,11 +16,7 @@ const LandingIntro = () => {
 						</div>
 					</div>
 					<p className="i-desc intro-text">
-                        A self-starter with 6+ years of Experience in Software Development. Have a good passion for
-                        learning new technologies and motivated to accept challenges in Programming. I have the ability
-                        to adapt the design quickly and code for the same. Keeping Professional standards make my code
-                        beautiful. Always take my work as my asset so I love to decorate it.
-
+                        Self-starter with 6+ years' experience in software development. Have a keen passion for learning new technologies and motivated to accept challenges in programming. I have the ability to adapt the design quickly and code for the same. Keeping professional standards makes my code look beautiful. I always treat my work as my asset, so I love to decorate it.
 					</p>
 				</div>
 			</div>
